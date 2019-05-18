@@ -61,8 +61,9 @@
 		</view>
 	</view>
 </template>
+```
 
-<script>
+```javascript
 	import tTable from '@/components/t-table/t-table.vue';
 	import tTh from '@/components/t-table/t-th.vue';
 	import tTr from '@/components/t-table/t-tr.vue';
@@ -115,7 +116,6 @@
 			}
 		}
 	};
-</script>
 
 ```
 
