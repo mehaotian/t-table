@@ -6,6 +6,7 @@
     "versionCode" : "100",
     "transformPx" : false,
     "app-plus" : {
+		 "usingComponents" : false,
         /* 5+App特有相关 */
         "splashscreen" : {
             "alwaysShowBeforeRender" : true,
