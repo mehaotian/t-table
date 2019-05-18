@@ -6,7 +6,7 @@
 此组件基本全平台支持。（支付宝，百度，头条小程序理论上都支持，但是没有很细致的测试这几个平台）
 
 [github 地址： https://github.com/mehaotian/t-table](https://github.com/mehaotian/t-table)         
-[插件市场地址：http://ext.dcloud.net.cn/plugin?id=413](http://ext.dcloud.net.cn/plugin?id=413)
+[插件市场地址：http://ext.dcloud.net.cn/plugin?id=413](http://ext.dcloud.net.cn/plugin?id=413)    
 **功能亮点**
 - 自定义全局表格样式
 - 自定义局部表格样式
