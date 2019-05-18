@@ -1,11 +1,11 @@
 ### t-table 表格
 
+
 `table` 表格基本使用组件，让你制作简单表格只需要专注内容，而不用过度专注样式。
 
 此组件基本全平台支持。（支付宝，百度，头条小程序理论上都支持，但是没有很细致的测试这几个平台）
 
-[github 地址： https://github.com/mehaotian/t-table](https://github.com/mehaotian/t-table)
-
+[github 地址： https://github.com/mehaotian/t-table](https://github.com/mehaotian/t-table)         
 [插件市场地址：http://ext.dcloud.net.cn/plugin?id=413](http://ext.dcloud.net.cn/plugin?id=413)
 **功能亮点**
 - 自定义全局表格样式
@@ -18,6 +18,7 @@
 - 调整列宽，行高
 
 **效果演示**
+![WX20190518-141534@2x.png](https://upload-images.jianshu.io/upload_images/4472817-5c26e7b529fc5461.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 调用方式
 
